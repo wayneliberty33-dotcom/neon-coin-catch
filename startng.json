@@ -1,0 +1,12 @@
+
+{
+  "leaderboard": {
+    "stats": [
+      {
+        "key": "coins",
+        "label": "Coins Collected",
+        "order": "highest"
+      }
+    ]
+  }
+}
